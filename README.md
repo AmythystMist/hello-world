@@ -1,2 +1,2 @@
 # hello-world
-just another geek following coding tradition :P
+just another geek following centuries-old coding tradition :P
